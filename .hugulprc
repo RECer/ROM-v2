@@ -8,12 +8,12 @@
     "html"
   ],
   "path": {
-    "styles": "styles",
+    "styles": "scss",
     "images": "images",
     "scripts": "scripts"
   },
   "watch": {
-    "source": "assets",
+    "source": "themes/rec-odd.me/source",
     "target": "static"
   },
   "build": {
